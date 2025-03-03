@@ -55,7 +55,7 @@ I'm currently expanding my skills in:
 I'm always open to collaborating on projects, especially those involving AI/ML or innovative web applications.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewis-muthee-365b4b2a8/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/Lewis_m?igsh=MWc4bzVqcmxvYjM0Q==)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/l_ewis_m/?__pwa=1)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lwsmuthee@gmail.com)
 
 ---
