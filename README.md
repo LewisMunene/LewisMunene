@@ -7,8 +7,8 @@ I'm a passionate developer with a focus on creating innovative solutions. My jou
 ```javascript
 const lewis = {
   location: "Nairobi, Kenya",
-  languages: ["Python", "JavaScript", "PHP"],
-  specialties: ["AI/ML", "Web Development", "Malicious Website Detection"],
+  languages: ["Python", "JavaScript", "PHP", "C++"],
+  specialties: ["AI/ML", "Web Development", "Malicious Website Detection", "IoT/Embedded Systems"],
   currentLearning: ["TensorFlow", "React", "Cloud Architecture"],
   lookingToCollaborate: true
 };
@@ -25,6 +25,7 @@ I'm constantly exploring new technologies while building practical applications.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -38,6 +39,7 @@ I'm constantly exploring new technologies while building practical applications.
 ## 🔥 Featured Projects
 
 - **[Jihadhari](https://github.com/LewisMunene/Jihadhari)**: AI-Powered Malicious Website Detection System
+- **[Smart Agriculture Monitoring System](https://github.com/LewisMunene/SmartAgricultureSystem)**: IoT-based system using Arduino for monitoring soil moisture, temperature, and light with automated control features
 - **[2DTypingShooter](https://github.com/LewisMunene/2DTypingShooter)**: A typing game built with Python
 - **[PycairoLab](https://github.com/LewisMunene/PycairoLab)**: Experiments with Python graphics
 - **[Colewice-Pharmaceuticals](https://github.com/LewisMunene/Colewice-Pharmaceuticals)**: PHP-based pharmaceutical management system
