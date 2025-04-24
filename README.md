@@ -39,7 +39,7 @@ I'm constantly exploring new technologies while building practical applications.
 ## 🔥 Featured Projects
 
 - **[Jihadhari](https://github.com/LewisMunene/Jihadhari)**: AI-Powered Malicious Website Detection System
-- **[Smart Agriculture Monitoring System](https://github.com/LewisMunene/SmartAgricultureSystem)**: IoT-based system using Arduino for monitoring soil moisture, temperature, and light with automated control features
+- **[Smart Agriculture Monitoring System](https://github.com/LewisMunene/Smart-Agriculture-Monitoring-System)**: IoT-based system using Arduino for monitoring soil moisture, temperature, and light with automated control features
 - **[2DTypingShooter](https://github.com/LewisMunene/2DTypingShooter)**: A typing game built with Python
 - **[PycairoLab](https://github.com/LewisMunene/PycairoLab)**: Experiments with Python graphics
 - **[Colewice-Pharmaceuticals](https://github.com/LewisMunene/Colewice-Pharmaceuticals)**: PHP-based pharmaceutical management system
