@@ -68,7 +68,7 @@ A compassionate platform for Strathmore students providing mental health resourc
 <tr>
 <td width="50%">
 
-### 🌾 [RibaFarms](https://github.com/LewisMunene/RibaFarms)
+### 🌾 [RibaFarms](https://github.com/LewisMunene/RibaFarm)
 **Agricultural Marketplace with AI**
 
 Digital marketplace connecting farmers with consumers, featuring AI-powered recommendations and analytics.
@@ -197,7 +197,7 @@ I'm always down to collaborate on projects that create real impact! Whether it's
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewis-muthee-4990121aa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l_ewis_m/?__pwa=1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lwsmuthee@gmail.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~YOUR_PROFILE)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010996c454d5fc7d91)
 
 </div>
 
